@@ -53,24 +53,8 @@ nav {
   font-size: 4rem;
   font-style: italic;
   margin-top: 75px;
+  font-family: Spicy Rice;
 }
-
-.title-img1 {
-  width: 60px;
-  height: 60px;
-  position: absolute;
-  top: 90px;
-  left: 320px;
-}
-
-.title-img2 {
-  width: 60px;
-  height: 60px;
-  position: absolute;
-  top: 90px;
-  right: 320px;
-}
-
 
 /*MONTH CARDS*/
 
@@ -231,6 +215,7 @@ hr {
   color: #642643;
   font-size: 3rem;
   text-align: center;
+  font-family: Spicy Rice;
 }
 
 /*GENERAL RULES*/
